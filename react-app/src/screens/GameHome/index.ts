@@ -1,0 +1,2 @@
+export { GameHome } from "./GameHome";
+
